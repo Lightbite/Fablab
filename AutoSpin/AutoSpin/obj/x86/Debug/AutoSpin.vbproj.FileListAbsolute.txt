@@ -1,0 +1,18 @@
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\bin\Debug\AutoSpin.exe
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\bin\Debug\AutoSpin.pdb
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\bin\Debug\AutoSpin.xml
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.Form1.resources
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.Resources.resources
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.vbproj.GenerateResource.Cache
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.exe
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.xml
+C:\Users\svens\AppData\Local\Temporary Projects\AutoSpin\obj\x86\Debug\AutoSpin.pdb
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.exe
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.xml
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.pdb
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\bin\Debug\AutoSpin.exe
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\bin\Debug\AutoSpin.pdb
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\bin\Debug\AutoSpin.xml
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.Resources.resources
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.vbproj.GenerateResource.Cache
+C:\Users\svens\OneDrive\Desktop\AutoSpin\AutoSpin\obj\x86\Debug\AutoSpin.You_spin_my_head_right_round.resources
